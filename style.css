@@ -1,3 +1,21 @@
 * {
     font-family: monospace;
 }
+fieldset {
+    width: 320px;
+}
+div {
+    border-bottom: 1px solid #efefef;
+    margin: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+}
+.title {
+    float: left;
+    width: 128px;
+    text-align: right;
+    padding-right: 10px;
+}
+.submit {
+    text-align: right;
+}
